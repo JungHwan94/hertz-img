@@ -1,1 +1,1 @@
-# hertz-img
+# img
